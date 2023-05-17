@@ -10,9 +10,7 @@ export default function About() {
               <br className="hidden lg:inline-block" /> I love to build and create software.
             </h1>
             <p className="mb-8 leading-relaxed">
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui
-              laborum quasi, incidunt dolore iste nostrum cupiditate voluptas?
-              Laborum, voluptas natus?
+              Website created with React
             </p>
             <div className="flex justify-center">
               <a

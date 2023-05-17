@@ -1,13 +1,13 @@
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
+    title: "Automation Testing",
+    subtitle: "Appium with Python",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "Developed automation scripts for mobile applications using Python and Appium with a Page-Object Model Framework. Allowed 80% reduction in time spent testing.",
     image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://appium.io/docs/en/2.0/",
   },
- /* 
+  /*
  {
     title: "React Tracks",
     subtitle: "React and Python",
@@ -35,6 +35,35 @@ export const projects = [
   */
 ];
 
+export const certifications = [ 
+ {
+    title: "React Tracks",
+    subtitle: "React and Python",
+    description:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+    image: "./project-2.gif",
+    link: "https://reactbootcamp.com",
+  },
+  {
+    title: "DevChat",
+    subtitle: "React and Firebase",
+    description:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+    image: "./project-3.gif",
+    link: "https://reactbootcamp.com",
+  },
+  {
+    title: "Epic Todo App",
+    subtitle: "React Hooks",
+    description:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+    image: "./project-4.gif",
+    link: "https://reactbootcamp.com",
+  },
+  
+];
+
+
 export const testimonials = [
   {
     quote:
@@ -61,7 +90,4 @@ export const skills = [
   "C++",
   "Selenium/Appium",
   "Jira",
-  "HTML",
-  "JavaScript",
-
 ];
