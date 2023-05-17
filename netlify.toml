@@ -1,5 +1,5 @@
 [build]
-  command = "CI= npm run build"
+  command = "CI= yarn run build"
 
 [[redirects]]
   from = "/*"
